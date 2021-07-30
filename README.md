@@ -10,7 +10,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCesarCosta&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="50" width="50" src="https://www.iconninja.com/files/335/584/10/web-coding-html-java-page-development-code-icon.svg">
+  <img align="center" alt="Java" height="48" width="48" src="https://www.iconninja.com/files/335/584/10/web-coding-html-java-page-development-code-icon.svg">
   <img align="center" alt="GoLang" height="80" width="80" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="right" alt="Ai" height="120" width="120" src="https://svgsilh.com/svg/2099120-9e9e9e.svg">
