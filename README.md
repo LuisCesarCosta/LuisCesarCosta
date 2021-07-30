@@ -12,6 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="60" width="60" src="https://www.iconninja.com/files/335/584/10/web-coding-html-java-page-development-code-icon.svg">
   <img align="center" alt="GoLang" height="60" width="60" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg">
+   <img align="right" alt="Ai" height="120" width="120" src="https://svgsilh.com/svg/2099120-9e9e9e.svg">
 </div>
 
   ##
