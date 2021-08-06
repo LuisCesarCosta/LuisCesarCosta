@@ -1,6 +1,7 @@
 ### Hi 👋
 
 - 🔭 I’m currently working on Fliper/XP Inc
+- 🎒 I'm worked in Java, DB and C/C++
 - 🌱 I’m currently learning Go, gRPC and GraphQL
 - 👯 I’m looking to collaborate on Go
 
