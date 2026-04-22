@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- 🔭 I’m currently working on Boticario Group
+- 🔭 I’m currently working on PicPay Group
 - 🎒 I'm worked in Java, Groovy, Kotlin, Node.js
 - 🌱 I’m currently learning Go, gRPC and GraphQL
 - 👯 I’m looking to collaborate on Go
